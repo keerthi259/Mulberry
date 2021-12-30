@@ -1,0 +1,397 @@
+/* div1 */
+/* Navbar */
+.navbar {
+  opacity: 1.0;
+  position: absolute;
+  width: 100%;
+  top: 0;
+  margin-top: -10px;
+  margin-left: -10px;
+  margin-right: -8px;
+  background-color: rgba(92, 122, 234, 0.6);
+}
+
+.order {
+  list-style-type: none;
+  margin: 0;
+  padding: 20px;
+  overflow: hidden;
+}
+
+.list {
+  padding-right: 30px;
+  float: left;
+}
+
+li a {
+  font-size: 23px;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.logo {
+  margin-right: 100%;
+  padding-left: 30%;
+  padding-top: 10px;
+  width: 70%;
+}
+
+/* Button */
+.button {
+  border: none;
+  color: #5C7AEA;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white;
+  border-radius: 50px;
+}
+
+/* div2 */
+.div2 {
+  margin-top: -10px;
+  margin-left: -10px;
+  margin-right: -7px;
+  height: 8200px;
+  background-color: #EFFFFB;
+}
+
+/* div3 */
+.div3 {
+  padding-top: 10px;
+  border-radius: 10px;
+  position: absolute;
+  width: 69%;
+  top: 350px;
+  height: 8200px;
+  background: #ffffff;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+h1 {
+  font-size: 50px;
+  color: #3B5998;
+  text-align: center;
+}
+
+.div31 {
+  margin-top: -15px;
+  color: grey;
+  padding-left: 65px;
+}
+
+/* social media */
+.share {
+  font-size: 20px;
+  margin-left: 230px;
+  margin-top: -5px;
+  color: #5C7AEA;
+}
+
+.fa {
+  margin: -6px;
+  padding: 5px;
+  font-size: 30px;
+  width: 20px;
+  text-align: center;
+  border-radius: 3px;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-instagram {
+  background: #3B5998;
+  color: white;
+}
+
+hr {
+  height: 1px;
+  border-top: 0px;
+  background-color: #DDDDDD;
+  margin-right: 65px;
+  width: 90%;
+}
+
+.div32 {
+  color: grey;
+  font-size: 20px;
+  line-height: 30px;
+  padding-left: 85px;
+  padding-right: 75px;
+  padding-top: 15px;
+}
+
+span {
+  color: #290FBA;
+}
+
+.div33 {
+  margin-top: 70px;
+  border-radius: 20px;
+  border-right: solid 10px;
+  border-bottom: solid 10px;
+  border-left: solid 1px;
+  background-color: #D6E6F2;
+  color: #5C7AEA;
+  height: 370px;
+  padding: 20px 20px 0px 20px;
+}
+
+.div34 {
+  margin-top: 70px;
+  border-radius: 20px;
+  box-shadow: 1px 1px 10px #888888;
+  background-color: #D6E6F2;
+  color: #5C7AEA;
+  line-height: 20px;
+  text-align: center;
+  height: 200px;
+  padding: 20px 20px 0px 20px;
+  box-sizing: border-box;
+}
+
+.div35 {
+  margin-top: 50px;
+  padding-left: 65px;
+}
+
+.div36 {
+  color: #423F3E;
+  font-size: 20px;
+  line-height: 30px;
+  padding-left: 85px;
+  padding-right: 75px;
+  padding-top: 15px;
+}
+
+.commentbox {
+  border: 2px solid #DDDDDD;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 15px;
+  margin-top: -10px;
+}
+
+.namebox {
+  border: 2px solid #DDDDDD;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 15px;
+  width: 350px;
+  margin-top: -10px;
+}
+
+.emailbox {
+  border: 2px solid #DDDDDD;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 15px;
+  width: 350px;
+  margin-left: 35px;
+  margin-top: -10px;
+}
+
+.checkbox {
+  margin-top: 40px;
+  border: 2px solid #DDDDDD;
+}
+
+form.postcomment button {
+  border: solid #3B5998;
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background: #3B5998;
+  color: white;
+  font-size: 17px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 40px;
+}
+
+form.postcomment button:hover {
+  background: #0b7dda;
+}
+
+/* Download pdf */
+form.example input[type=text] {
+  margin-left: 10px;
+  padding: 10px;
+  font-size: 17px;
+  float: left;
+  width: 69%;
+  background: white;
+  border: solid white;
+  border-radius: 10px 0px 0px 10px;
+}
+
+form.example button {
+  border: solid #3B5998;
+  float: left;
+  width: 25%;
+  padding: 10px;
+  background: #3B5998;
+  color: white;
+  font-size: 17px;
+  cursor: pointer;
+  border-radius: 0px 10px 10px 0px;
+}
+
+form.example button:hover {
+  background: #0b7dda;
+}
+
+.div4 {
+  color: white;
+  height: 400px;
+  background-color: rgba(92, 122, 234);
+  margin-top: -83px;
+  margin-left: -10px;
+  margin-right: -7px;
+  margin-bottom: -10px;
+  padding: 40px 150px 50px 150px;
+}
+
+.business {
+  width: 75%;
+  font-size: 18px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.followus {
+  margin-left: 10px;
+  font-size: 21px;
+}
+
+.lists {
+  padding-right: 30px;
+  float: left;
+}
+
+.details {
+  margin-top: -20px;
+  margin-left: 100px;
+}
+
+.th, .td {
+  padding: 10px;
+}
+.hr{
+  padding: 0px 0px 0px 10px;
+}
+.div41 {
+  border-radius: 20px;
+  background-color: rgba(92, 122, 234);
+  color: white;
+  line-height: 20px;
+  text-align: center;
+  height: 200px;
+  padding: 20px 20px 0px 20px;
+  box-sizing: border-box;
+}
+
+form.subscribe input[type=text] {
+  margin-left: 150px;
+  padding: 10px;
+  font-size: 17px;
+  float: left;
+  width: 55%;
+  background: white;
+  border: solid white;
+  border-radius: 5px 0px 0px 5px;
+}
+
+form.subscribe button {
+  border: solid #FF7800;
+  float: left;
+  width: 13%;
+  padding: 10px;
+  background: #FF7800;
+  color: white;
+  font-size: 17px;
+  cursor: pointer;
+  border-radius: 0px 5px 5px 0px;
+}
+.copyright{
+  text-align: center;
+  margin-top: -20px;
+}
+#socialmedia{
+  margin-left: -10px;
+  background-color: white;
+  border-radius:20px;
+  color:rgba(92, 122, 234);
+}
+#order{
+  margin-top: -20px;
+}
+/* Images */
+.industries2 {
+  margin-top: -10px;
+  margin-left: -10px;
+  width: 1350px;
+}
+
+.myself {
+  margin-top: -20px;
+  width: 50px;
+  border-radius: 80px;
+}
+
+.industry1 {
+  margin-top: 20px;
+  border-radius: 10px;
+  width: 99%;
+}
+
+.industry2 {
+  margin-top: 20px;
+  border-radius: 10px;
+  width: 99%;
+}
+
+.industry3 {
+  margin-right: -20px;
+  border-radius: 10px;
+}
+
+.industry4 {
+  margin-top: 20px;
+  border-radius: 10px;
+  width: 99%;
+}
+
+.industry5 {
+  margin-right: -20px;
+  border-radius: 10px;
+}
+
+.industry6 {
+  margin-top: -45px;
+  margin-left: 520px;
+}
